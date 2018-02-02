@@ -14,8 +14,10 @@ brew readline
 brew wget
 
 tap caskroom/cask
+cask slack
 cask atom
 cask vivaldi
+cask discord
 cask microsoft-office
 cask google-chrome
 
@@ -26,5 +28,6 @@ brew brew-file
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
+appstore 539883307 LINE (5.5.1)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
