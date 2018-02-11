@@ -6,7 +6,10 @@ brew autoconf
 brew chromedriver
 brew colordiff
 brew gettext
+brew git
+brew go
 brew htop
+brew kubernetes-cli
 brew libidn2
 brew libunistring
 brew mas
@@ -19,6 +22,7 @@ brew wget
 tap caskroom/cask
 cask slack
 cask atom
+cask virtualbox
 cask vivaldi
 cask notational-velocity
 cask docker
@@ -27,8 +31,10 @@ cask rescuetime
 cask discord
 cask microsoft-office
 cask google-chrome
+cask gitkraken
 cask mendeley
 cask bettertouchtool
+cask minikube
 
 tap rcmdnk/file
 brew brew-file
