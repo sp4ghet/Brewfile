@@ -29,6 +29,7 @@ brew reattach-to-user-namespace
 brew ruby-build
 brew tmux
 brew wget
+brew neovim
 
 tap caskroom/cask
 cask slack
