@@ -33,7 +33,6 @@ brew wget
 tap caskroom/cask
 cask slack
 cask atom
-cask td-agent
 cask virtualbox
 cask google-cloud-sdk
 cask vivaldi
