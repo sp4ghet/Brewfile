@@ -3,7 +3,6 @@
 
 tap homebrew/core
 brew autoconf
-brew chromedriver
 brew colordiff
 brew gettext
 brew git
@@ -28,32 +27,41 @@ brew readline
 brew reattach-to-user-namespace
 brew ruby-build
 brew tmux
+brew tree
 brew wget
 
 tap caskroom/cask
-cask slack
-cask atom
-cask virtualbox
-cask google-cloud-sdk
-cask vivaldi
-cask notational-velocity
-cask docker
 cask adobe-creative-cloud
-cask rescuetime
-cask discord
+cask atom
 cask beaker-browser
-cask microsoft-office
-cask google-chrome
-cask gitkraken
-cask mendeley
 cask bettertouchtool
+cask discord
+cask docker
+cask etcher
+cask franz
+cask gitkraken
+cask google-chrome
+cask google-cloud-sdk
+cask mendeley
+cask microsoft-office
 cask minikube
+cask notational-velocity
+cask rescuetime
+cask skim
+cask skype
+cask slack
+cask unity-hub
+cask virtualbox
+cask vivaldi
 
 tap heroku/brew
 brew heroku-node
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew chromedriver
 
 # App Store applications
 appstore 868968810 Fusion360 (1.29.8)
