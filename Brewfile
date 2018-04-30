@@ -29,6 +29,7 @@ brew ruby-build
 brew tmux
 brew tree
 brew wget
+brew neovim
 
 tap caskroom/cask
 cask adobe-creative-cloud
