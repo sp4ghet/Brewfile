@@ -33,6 +33,8 @@ brew tmux
 brew tree
 brew wget
 
+tap homebrew/bundle
+
 tap caskroom/cask
 cask adobe-creative-cloud
 cask atom
@@ -45,6 +47,8 @@ cask franz
 cask gitkraken
 cask google-chrome
 cask google-cloud-sdk
+cask hyper
+cask iterm2
 cask mendeley
 cask minikube
 cask notational-velocity
@@ -52,10 +56,8 @@ cask rescuetime
 cask skim
 cask skype
 cask slack
-cask unity-hub
-cask hyper
-cask iterm2
 cask td-agent
+cask unity-hub
 cask virtualbox
 cask vivaldi
 
@@ -73,6 +75,6 @@ appstore 868968810 Fusion360 (1.29.8)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
-appstore 539883307 LINE (5.6.1)
+appstore 539883307 LINE (5.7.0)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
