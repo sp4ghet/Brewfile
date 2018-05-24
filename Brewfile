@@ -12,9 +12,11 @@ brew heroku
 brew htop
 brew icu4c
 brew jq
+brew kubectx
 brew kubernetes-cli
 brew libevent
 brew libidn2
+brew libssh2
 brew libunistring
 brew mas
 brew node
@@ -26,6 +28,7 @@ brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
+brew rust
 brew tmux
 brew tree
 brew wget
@@ -43,7 +46,6 @@ cask gitkraken
 cask google-chrome
 cask google-cloud-sdk
 cask mendeley
-cask microsoft-office
 cask minikube
 cask notational-velocity
 cask rescuetime
@@ -51,6 +53,9 @@ cask skim
 cask skype
 cask slack
 cask unity-hub
+cask hyper
+cask iterm2
+cask td-agent
 cask virtualbox
 cask vivaldi
 
