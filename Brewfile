@@ -4,6 +4,7 @@
 tap homebrew/core
 brew autoconf
 brew colordiff
+brew direnv
 brew gettext
 brew git
 brew git-secrets
@@ -36,6 +37,17 @@ brew wget
 tap homebrew/bundle
 
 tap caskroom/cask
+
+tap heroku/brew
+brew heroku-node
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew chromedriver
+
+# Other Cask applications
 cask adobe-creative-cloud
 cask atom
 cask beaker-browser
@@ -56,19 +68,11 @@ cask rescuetime
 cask skim
 cask skype
 cask slack
+cask soundflower
 cask td-agent
 cask unity-hub
 cask virtualbox
 cask vivaldi
-
-tap heroku/brew
-brew heroku-node
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
-brew chromedriver
 
 # App Store applications
 appstore 868968810 Fusion360 (1.29.8)
