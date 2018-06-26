@@ -39,7 +39,21 @@ brew wget
 
 tap homebrew/bundle
 
-tap caskroom/cask
+tap homebrew/cask
+cask adobe-creative-cloud
+cask beaker-browser
+cask docker
+cask franz
+cask google-chrome
+cask hyper
+cask mendeley
+cask minikube
+cask rescuetime
+cask skype
+cask soundflower
+cask touchdesigner
+cask virtualbox
+cask zoom
 
 tap heroku/brew
 brew heroku-node
@@ -51,39 +65,25 @@ brew brew-file
 brew chromedriver
 
 # Other Cask applications
-cask adobe-creative-cloud
 cask atom
-cask beaker-browser
 cask discord
-cask docker
 cask etcher
-cask franz
 cask gitkraken
-cask google-chrome
 cask google-cloud-sdk
-cask hyper
 cask iterm2
-cask mendeley
-cask minikube
+cask microsoft-office
 cask notational-velocity
-cask rescuetime
 cask skim
-cask skype
 cask slack
-cask soundflower
 cask td-agent
 cask unity-hub
-cask touchdesigner
-cask unity-hub
-cask virtualbox
 cask vivaldi
-cask zoom
 
 # App Store applications
 appstore 868968810 Fusion360 (1.29.8)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
-appstore 539883307 LINE (5.7.0)
+appstore 539883307 LINE (5.6.1)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
