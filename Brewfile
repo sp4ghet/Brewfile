@@ -9,6 +9,7 @@ brew gettext
 brew git
 brew git-secrets
 brew go
+brew haskell-stack
 brew heroku
 brew htop
 brew icu4c
@@ -19,6 +20,7 @@ brew libevent
 brew libidn2
 brew libssh2
 brew libunistring
+brew libzip
 brew mas
 brew node
 brew oniguruma
@@ -30,6 +32,7 @@ brew readline
 brew reattach-to-user-namespace
 brew ruby-build
 brew rust
+brew tldr
 brew tmux
 brew tree
 brew wget
@@ -51,7 +54,6 @@ brew chromedriver
 cask adobe-creative-cloud
 cask atom
 cask beaker-browser
-cask bettertouchtool
 cask discord
 cask docker
 cask etcher
@@ -71,8 +73,11 @@ cask slack
 cask soundflower
 cask td-agent
 cask unity-hub
+cask touchdesigner
+cask unity-hub
 cask virtualbox
 cask vivaldi
+cask zoom
 
 # App Store applications
 appstore 868968810 Fusion360 (1.29.8)
