@@ -3,8 +3,10 @@
 
 tap homebrew/core
 brew autoconf
+brew bazel
 brew colordiff
 brew direnv
+brew gdbm
 brew gettext
 brew git
 brew git-secrets
@@ -25,19 +27,26 @@ brew mas
 brew node
 brew oniguruma
 brew openssl
+brew pipenv
 brew pkg-config
 brew pyenv
+brew python
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
 brew rust
+brew sqlite
 brew tldr
 brew tmux
 brew tree
 brew wget
+brew xz
 
 tap homebrew/bundle
+
+tap homebrew/cask-versions
+cask java8
 
 tap homebrew/cask
 cask adobe-creative-cloud
