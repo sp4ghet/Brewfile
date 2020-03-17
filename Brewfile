@@ -3,96 +3,114 @@
 
 tap homebrew/core
 brew autoconf
-brew bazel
+brew bat
+brew boost
 brew colordiff
 brew direnv
+brew fd
+brew fontconfig
+brew freetype
+brew gcc
+brew gd
 brew gdbm
 brew gettext
 brew git
 brew git-secrets
+brew glib
+brew gmp
 brew go
+brew graphviz
+brew gts
 brew haskell-stack
-brew heroku
+brew hexyl
 brew htop
 brew icu4c
+brew isl
+brew jasper
+brew jpeg
 brew jq
-brew kubectx
-brew kubernetes-cli
 brew libevent
+brew libffi
 brew libidn2
+brew libmpc
+brew libpng
 brew libssh2
+brew libtiff
+brew libtool
 brew libunistring
 brew libzip
 brew mas
+brew mpfr
+brew netpbm
 brew node
 brew oniguruma
-brew openssl
+brew openssl@1.1
+brew pcre
+brew pcre2
 brew pipenv
 brew pkg-config
+brew procs
 brew pyenv
 brew python
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
+brew ripgrep
 brew ruby-build
-brew rust
 brew sqlite
 brew tldr
 brew tmux
 brew tree
+brew webp
 brew wget
 brew xz
+brew youtube-dl
 
 tap homebrew/bundle
 
 tap homebrew/cask-versions
-cask java8
 
 tap homebrew/cask
 cask adobe-creative-cloud
 cask beaker-browser
 cask discord
-cask etcher
-cask gitkraken
+cask franz
 cask google-cloud-sdk
 cask iterm2
 cask microsoft-office
-cask notational-velocity
-cask skim
-cask slack
+cask rescuetime
+cask skype
 cask td-agent
 cask unity-hub
-cask vivaldi
+cask visual-studio-code
+cask zoom
 
 tap heroku/brew
+brew heroku
 brew heroku-node
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew chromedriver
+brew openssl
 
 # Other Cask applications
 cask atom
 cask bettertouchtool
 cask docker
-cask franz
 cask google-chrome
-cask hyper
-cask mendeley
-cask minikube
-cask rescuetime
-cask skype
-cask soundflower
+cask google-japanese-ime
+cask loopback
+cask notable
+cask skim
+cask slack
 cask touchdesigner
 cask virtualbox
-cask zoom
+cask vlc
 
 # App Store applications
-appstore 868968810 Fusion360 (1.29.8)
 appstore 682658836 GarageBand (10.2.0)
-appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
 appstore 539883307 LINE (5.7.0)
 appstore 409203825 Numbers (4.3.1)
